@@ -1,0 +1,6 @@
+C:\projects\combinationsolver\TypeScriptHTMLApp1\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.dll.config
+C:\projects\combinationsolver\TypeScriptHTMLApp1\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.dll
+C:\projects\combinationsolver\TypeScriptHTMLApp1\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.pdb
+C:\projects\combinationsolver\TypeScriptHTMLApp1\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.csprojResolveAssemblyReference.cache
+C:\projects\combinationsolver\TypeScriptHTMLApp1\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.dll
+C:\projects\combinationsolver\TypeScriptHTMLApp1\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.pdb
